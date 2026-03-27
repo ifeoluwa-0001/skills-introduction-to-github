@@ -1,0 +1,2 @@
+This is file two.
+change one.Git did not see the first change because the file was untracked by Git at that point in time it was changed.
